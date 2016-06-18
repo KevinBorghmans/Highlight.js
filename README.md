@@ -38,6 +38,6 @@ This is a little project for school to creat our own javascript library's and to
 
 ## Installation
 
-1. Download the Highlight.js zip. [Link](https://github.com/KevinBorghmans/spin.js/archive/master.zip)
+1. Download the Highlight.js zip. [Link](https://github.com/KevinBorghmans/Highlight.js/archive/master.zip)
 2. Unzip and replace the example contents in index.html with your own.
 3. Open index.html in a browser to view it.
